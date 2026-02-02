@@ -26,8 +26,9 @@ com opções personalizáveis e indicador de força da senha.
 - Expo Haptics
 
 ## 📱 Preview
+<img width="574" height="939" alt="Image" src="https://github.com/user-attachments/assets/760566ae-7a9e-419b-baf9-93688639db3f" />
 
----
+<img width="576" height="947" alt="Image" src="https://github.com/user-attachments/assets/3dc2d9ba-b7d2-4212-8268-73de6488b757" />---
 
 ## ▶️ Como Executar o Projeto
 
