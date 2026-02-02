@@ -26,9 +26,6 @@ com opções personalizáveis e indicador de força da senha.
 - Expo Haptics
 
 ## 📱 Preview
-(Adicione um GIF ou imagem depois)
-![alt text](image.png)
-![alt text](image-1.png)
 
 ---
 
